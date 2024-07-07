@@ -1,0 +1,14 @@
+source,destination,amount
+null,10,10.0
+null,11,20.0
+null,10,100.0
+10,20,100.0
+null,30,20.0
+null,31,10.0
+null,30,20.0
+30,40,20.0
+null,31,15.0
+31,41,15.0
+null,50,100.0
+null,51,10.0
+null,60,30.0
